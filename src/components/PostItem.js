@@ -1,4 +1,4 @@
-import classes from './PostItem.module.css';
+import classes from "./PostItem.module.css";
 
 function PostItem({ post }) {
   return (
